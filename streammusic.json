@@ -1,11 +1,9 @@
-[
-  {
-    "id": "1",
-    "title": "Amazing Grace",
-    "artist": "Artist Name",
-    "album": "Worship Album",
-    "category": "Worship",
-    "image": "https://example.com/cover.jpg",
-    "url": "https://example.com/song.mp3"
-  }
-]
+{
+  "id": "1",
+  "title": "Demo Track 01",
+  "artist": "SoundHelix",
+  "album": "Streaming Demo",
+  "category": "Worship",
+  "image": "https://images.unsplash.com/...",
+  "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+}
