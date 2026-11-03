@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "title": "Amazing Grace",
+    "artist": "Artist Name",
+    "album": "Worship Album",
+    "category": "Worship",
+    "image": "https://example.com/cover.jpg",
+    "url": "https://example.com/song.mp3"
+  }
+]
